@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NUhr6tfOiOQhAeZ7pLNbiohNu4WwO/F6bBZxL8XjOOsMRSbIzLF/0Qj+MvbC5H0/+O9fZ2AVDnoLEYsLM41tUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\foxle\\Documents\\GitHub\\217MokhovSergey\\Seminar 1 (11.01.22)\\HW\\Task 3\\Task 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\foxle\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

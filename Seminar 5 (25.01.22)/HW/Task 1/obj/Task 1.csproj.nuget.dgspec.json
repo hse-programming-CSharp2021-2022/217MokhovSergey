@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\foxle\\Documents\\GitHub\\217MokhovSergey\\Seminar 5 (25.01.22)\\HW\\HW\\HW.csproj": {}
+    "C:\\Users\\foxle\\Documents\\GitHub\\217MokhovSergey\\Seminar 5 (25.01.22)\\HW\\Task 1\\Task 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\foxle\\Documents\\GitHub\\217MokhovSergey\\Seminar 5 (25.01.22)\\HW\\HW\\HW.csproj": {
+    "C:\\Users\\foxle\\Documents\\GitHub\\217MokhovSergey\\Seminar 5 (25.01.22)\\HW\\Task 1\\Task 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\foxle\\Documents\\GitHub\\217MokhovSergey\\Seminar 5 (25.01.22)\\HW\\HW\\HW.csproj",
-        "projectName": "HW",
-        "projectPath": "C:\\Users\\foxle\\Documents\\GitHub\\217MokhovSergey\\Seminar 5 (25.01.22)\\HW\\HW\\HW.csproj",
+        "projectUniqueName": "C:\\Users\\foxle\\Documents\\GitHub\\217MokhovSergey\\Seminar 5 (25.01.22)\\HW\\Task 1\\Task 1.csproj",
+        "projectName": "Task 1",
+        "projectPath": "C:\\Users\\foxle\\Documents\\GitHub\\217MokhovSergey\\Seminar 5 (25.01.22)\\HW\\Task 1\\Task 1.csproj",
         "packagesPath": "C:\\Users\\foxle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\foxle\\Documents\\GitHub\\217MokhovSergey\\Seminar 5 (25.01.22)\\HW\\HW\\obj\\",
+        "outputPath": "C:\\Users\\foxle\\Documents\\GitHub\\217MokhovSergey\\Seminar 5 (25.01.22)\\HW\\Task 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\foxle\\AppData\\Roaming\\NuGet\\NuGet.Config",

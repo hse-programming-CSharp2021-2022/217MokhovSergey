@@ -12,9 +12,9 @@ namespace Task_1
             X = x;
             Y = y;
         }
-        public double Distance(Point pont)
+        public double Distance(Point point)
         {
-            return Math.Sqrt(Math.Pow(X - pont.X, 2) + Math.Pow(Y - pont.Y, 2));
+            return Math.Sqrt(Math.Pow(X - point.X, 2) + Math.Pow(Y - point.Y, 2));
         }
         public override string ToString() => $"Point({X},{Y})";
 

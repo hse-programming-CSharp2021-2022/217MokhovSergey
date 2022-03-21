@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bbfaea7d-4485-42de-89c8-de4d10887fc9": {
+      "ProjectGuid": "bbfaea7d-4485-42de-89c8-de4d10887fc9",
+      "DisplayName": "HW",
+      "ColorIndex": 0
+    },
+    "3c5a1d40-79a9-4c34-8730-d6d6ce326b7a": {
+      "ProjectGuid": "3c5a1d40-79a9-4c34-8730-d6d6ce326b7a",
+      "DisplayName": "Task 1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

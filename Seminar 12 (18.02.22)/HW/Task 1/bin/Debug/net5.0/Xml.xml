@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<University xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>HSE</Name>
+  <Departments>
+    <Department>
+      <Name>department 1</Name>
+      <Humans>
+        <Human>
+          <Name>Ben</Name>
+        </Human>
+        <Human xsi:type="Professor">
+          <Name>Jeff</Name>
+        </Human>
+        <Human>
+          <Name>Mike</Name>
+        </Human>
+        <Human xsi:type="Professor">
+          <Name>Calman</Name>
+        </Human>
+      </Humans>
+    </Department>
+    <Department>
+      <Name>department 2</Name>
+      <Humans>
+        <Human>
+          <Name>Ben</Name>
+        </Human>
+        <Human xsi:type="Professor">
+          <Name>Jeff</Name>
+        </Human>
+        <Human>
+          <Name>Mike</Name>
+        </Human>
+        <Human xsi:type="Professor">
+          <Name>Calman</Name>
+        </Human>
+      </Humans>
+    </Department>
+  </Departments>
+</University>

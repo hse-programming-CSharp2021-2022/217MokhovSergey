@@ -19,7 +19,7 @@ namespace Task_2
             Course = course;
         }
 
-        public Student(){}
+        public Student() { }
     }
 
     [Serializable]
@@ -34,7 +34,7 @@ namespace Task_2
             Students = students;
         }
 
-        public Group(){}
+        public Group() { }
     }
 
     internal class Program
@@ -44,7 +44,7 @@ namespace Task_2
             Group group1 = new Group(1, new List<Student>() { new Student("Black", 1), new Student("White", 1) });
             Group group2 = new Group(2, new List<Student>() { new Student("Red", 2), new Student("Orange", 2) });
 
-            Group[] groups = new[] {group1, group2};
+            Group[] groups = new[] { group1, group2 };
             BinaryFormatter formatter = new BinaryFormatter();
 
             using (FileStream fileStream = new FileStream("binary.txt", FileMode.OpenOrCreate))
@@ -57,7 +57,11 @@ namespace Task_2
                 var array = (Group[])formatter.Deserialize(fileStream);
                 foreach (var item in array)
                 {
-                    Console.WriteLine(item.Id);
+                    Console.WriteLine("Group id:" + item.Id);
+                    foreach (var student in item.Students)
+                    {
+                        Console.WriteLine(student.Surname + " " + student.Course);
+                    }
                 }
             }
 
@@ -74,7 +78,11 @@ namespace Task_2
                 var array = (Group[])serializer.Deserialize(fileStream);
                 foreach (var item in array)
                 {
-                    Console.WriteLine(item.Id);
+                    Console.WriteLine("Group id:" + item.Id);
+                    foreach (var student in item.Students)
+                    {
+                        Console.WriteLine(student.Surname + " " + student.Course);
+                    }
                 }
             }
 
@@ -84,7 +92,11 @@ namespace Task_2
             var array2 = JsonSerializer.Deserialize<Group[]>(json);
             foreach (var item in array2)
             {
-                Console.WriteLine(item.Id);
+                Console.WriteLine("Group id:" + item.Id);
+                foreach (var student in item.Students)
+                {
+                    Console.WriteLine(student.Surname + " " + student.Course);
+                }
             }
         }
     }

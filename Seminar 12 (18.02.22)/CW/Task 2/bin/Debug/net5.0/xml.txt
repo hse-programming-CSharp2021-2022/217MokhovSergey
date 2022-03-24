@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Group>
+    <Id>1</Id>
+    <Students>
+      <Student>
+        <Surname>Black</Surname>
+        <Course>1</Course>
+      </Student>
+      <Student>
+        <Surname>White</Surname>
+        <Course>1</Course>
+      </Student>
+    </Students>
+  </Group>
+  <Group>
+    <Id>2</Id>
+    <Students>
+      <Student>
+        <Surname>Red</Surname>
+        <Course>2</Course>
+      </Student>
+      <Student>
+        <Surname>Orange</Surname>
+        <Course>2</Course>
+      </Student>
+    </Students>
+  </Group>
+</ArrayOfGroup>

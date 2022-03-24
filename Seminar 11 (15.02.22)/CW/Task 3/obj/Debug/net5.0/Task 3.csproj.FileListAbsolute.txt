@@ -1,0 +1,15 @@
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\bin\Debug\net5.0\Task 3.exe
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\bin\Debug\net5.0\Task 3.deps.json
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\bin\Debug\net5.0\Task 3.runtimeconfig.json
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\bin\Debug\net5.0\Task 3.runtimeconfig.dev.json
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\bin\Debug\net5.0\Task 3.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\bin\Debug\net5.0\ref\Task 3.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\bin\Debug\net5.0\Task 3.pdb
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\obj\Debug\net5.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\obj\Debug\net5.0\Task 3.AssemblyInfoInputs.cache
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\obj\Debug\net5.0\Task 3.AssemblyInfo.cs
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\obj\Debug\net5.0\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\obj\Debug\net5.0\Task 3.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\obj\Debug\net5.0\ref\Task 3.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\obj\Debug\net5.0\Task 3.pdb
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 11 (15.02.22)\CW\Task 3\obj\Debug\net5.0\Task 3.genruntimeconfig.cache

@@ -14,7 +14,7 @@
 * Семинар 11 :white_check_mark:
 * Семинар 12 :white_check_mark:
 * Семинар 13 :large_orange_diamond:
-* Семинар 14
+* Семинар 14 :large_orange_diamond:
 * Семинар 15
 * Семинар 16
 * Семинар 17

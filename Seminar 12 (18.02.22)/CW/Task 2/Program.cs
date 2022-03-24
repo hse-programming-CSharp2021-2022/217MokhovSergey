@@ -37,12 +37,29 @@ namespace Task_2
         public Group() { }
     }
 
+    [Serializable]
+    public class SmallGroup : Group
+    {
+        public int Value { get; set; }
+
+        public SmallGroup()
+        {
+        }
+
+        public SmallGroup(int id, List<Student> students)
+        {
+            this.Id = id;
+            this.Students = students;
+            Value = 100;
+        }
+    }
+
     internal class Program
     {
         static void Main(string[] args)
         {
             Group group1 = new Group(1, new List<Student>() { new Student("Black", 1), new Student("White", 1) });
-            Group group2 = new Group(2, new List<Student>() { new Student("Red", 2), new Student("Orange", 2) });
+            SmallGroup group2 = new SmallGroup(2, new List<Student>() { new Student("Red", 2), new Student("Orange", 2) });
 
             Group[] groups = new[] { group1, group2 };
             BinaryFormatter formatter = new BinaryFormatter();
@@ -67,7 +84,7 @@ namespace Task_2
 
             // Все элементы сериализации должны быть Serializable.
 
-            XmlSerializer serializer = new XmlSerializer(typeof(Group[]));
+            XmlSerializer serializer = new XmlSerializer(typeof(Group[]), new Type[]{ typeof(SmallGroup[])});
             using (FileStream fileStream = new FileStream("xml.txt", FileMode.OpenOrCreate))
             {
                 serializer.Serialize(fileStream, groups);
@@ -85,7 +102,6 @@ namespace Task_2
                     }
                 }
             }
-
 
             string json = JsonSerializer.Serialize(groups);
 

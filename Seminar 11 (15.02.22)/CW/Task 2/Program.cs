@@ -27,6 +27,7 @@ namespace Task_2
                     byte[] array = new byte[fs.Length];
                     fs.Read(array, 0, array.Length);
                     string line = System.Text.Encoding.Default.GetString(array);
+                    Console.WriteLine(line);
 
                     byte[] array2 = System.Text.Encoding.Default.GetBytes(
                         ((char)(line[^1] + 1)).ToString());

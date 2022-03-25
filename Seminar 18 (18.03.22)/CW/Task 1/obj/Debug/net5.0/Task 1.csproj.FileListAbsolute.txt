@@ -1,0 +1,67 @@
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Task 1.exe
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Task 1.deps.json
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.json
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.dev.json
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Task 1.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\ref\Task 1.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Task 1.pdb
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\obj\Debug\net5.0\Task 1.csproj.AssemblyReference.cache
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\obj\Debug\net5.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfoInputs.cache
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfo.cs
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\obj\Debug\net5.0\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\obj\Debug\net5.0\Task 1.csproj.CopyComplete
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\obj\Debug\net5.0\Task 1.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\obj\Debug\net5.0\ref\Task 1.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\obj\Debug\net5.0\Task 1.pdb
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 18 (18.03.22)\CW\Task 1\obj\Debug\net5.0\Task 1.genruntimeconfig.cache

@@ -4,7 +4,7 @@
 * Семинар 1 :white_check_mark:
 * Семинар 2 :white_check_mark:
 * Семинар 3 :white_check_mark:
-* Семинар 4
+* Семинар 4 :white_check_mark:
 * Семинар 5 :white_check_mark:
 * Семинар 6 :white_check_mark:
 * Семинар 7 :white_check_mark:

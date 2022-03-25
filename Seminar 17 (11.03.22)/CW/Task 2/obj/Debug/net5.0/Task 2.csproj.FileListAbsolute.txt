@@ -1,0 +1,28 @@
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\Task 2.csproj.AssemblyReference.cache
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\Task 2.AssemblyInfoInputs.cache
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\Task 2.AssemblyInfo.cs
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\Task 2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\Task 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\bin\Debug\net5.0\appsettings.json
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\bin\Debug\net5.0\Task 2.exe
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\bin\Debug\net5.0\Task 2.deps.json
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\bin\Debug\net5.0\Task 2.runtimeconfig.json
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\bin\Debug\net5.0\Task 2.runtimeconfig.dev.json
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\bin\Debug\net5.0\Task 2.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\bin\Debug\net5.0\ref\Task 2.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\bin\Debug\net5.0\Task 2.pdb
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\scopedcss\bundle\Task 2.styles.css
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\staticwebassets\Task 2.StaticWebAssets.Manifest.cache
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\Task 2.RazorTargetAssemblyInfo.cache
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\Task 2.csproj.CopyComplete
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\Task 2.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\ref\Task 2.dll
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\Task 2.pdb
+C:\Users\foxle\Documents\GitHub\217MokhovSergey\Seminar 17 (11.03.22)\CW\Task 2\obj\Debug\net5.0\Task 2.genruntimeconfig.cache

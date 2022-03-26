@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "035ba0b7-18f6-4a34-8b61-d0aaee77f62f": {
+      "ProjectGuid": "035ba0b7-18f6-4a34-8b61-d0aaee77f62f",
+      "DisplayName": "HW",
+      "ColorIndex": 0
+    },
+    "e0d3a599-ab3f-462d-9738-a2cf6013c9f9": {
+      "ProjectGuid": "e0d3a599-ab3f-462d-9738-a2cf6013c9f9",
+      "DisplayName": "Task 1",
+      "ColorIndex": 1
+    },
+    "06a55c07-dc0f-41b7-852e-906b62cb1de3": {
+      "ProjectGuid": "06a55c07-dc0f-41b7-852e-906b62cb1de3",
+      "DisplayName": "Task 1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
